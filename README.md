@@ -1,0 +1,21 @@
+Hola, soy Andrés. Bienvenido a mi portafolio personal en GitHub. Aquí encontrarás una recopilación de mis proyectos, habilidades y enlaces relevantes.
+
+Soy un desarrollador entusiasta con interés en:
+
+- Desarrollo web (HTML, CSS, JavaScript, Python)
+- Automatización de tareas con Python
+- Aprendizaje continuo y solución de problemas mediante código
+
+---
+
+## Habilidades técnicas
+
+- Lenguajes: Python, JavaScript, HTML, CSS
+- Herramientas: Git, GitHub, Visual Studio Code
+- Otros: Diseño responsivo, flujo de trabajo con Git, uso básico de APIs
+
+---
+
+## Contacto
+
+Puedes contactarme en: andres.soto1016@gmail.com
